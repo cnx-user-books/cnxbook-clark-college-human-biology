@@ -1,0 +1,115 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Neurons and Glial Cells</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58086</md:content-id>
+  <md:title>Neurons and Glial Cells</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List and describe the functions of the structural components of a neuron</item>
+<item>Describe the structure multipolar neurons</item>
+<item>State the general function of glial cells</item>
+</list></md:abstract>
+  <md:uuid>c7dbed4a-38f1-4ee1-a7fe-26f3ef80cfe9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm2940400">The nervous system is made up of <term>neurons</term>, specialized cells that can receive and transmit chemical or electrical signals, and <term>glia</term>, cells that provide support functions for the neurons by playing an information processing role that is complementary to neurons. A neuron can be compared to an electrical wire—it transmits a signal from one place to another. Glia can be compared to the workers at the electric company who make sure wires go to the right places, maintain the wires, and take down wires that are broken. Although glia have been compared to workers, recent evidence suggests that also usurp some of the signaling functions of neurons.</para>
+<para id="fs-idp225761920">There is great diversity in the types of neurons and glia that are present in different parts of the nervous system. There are four major types of neurons, and they share several important cellular components.</para>
+<section id="fs-idp237666720">
+<title>Neurons</title>
+<para id="fs-idp248532976">The nervous system of the common laboratory fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>, contains around 100,000 neurons, the same number as a lobster. This number compares to 75 million in the mouse and 300 million in the octopus. A human brain contains around 86 billion neurons. Despite these very different numbers, the nervous systems of these animals control many of the same behaviors—from basic reflexes to more complicated behaviors like finding food and courting mates. The ability of neurons to communicate with each other as well as with other types of cells underlies all of these behaviors.</para>
+<para id="fs-idp80925296">Most neurons share the same cellular components. But neurons are also highly specialized—different types of neurons have different sizes and shapes that relate to their functional roles.</para>
+<section id="fs-idp256040352">
+<title>Parts of a Neuron</title>
+<para id="fs-idp120784864">Like other cells, each neuron has a cell body that contains a nucleus, smooth and rough endoplasmic reticulum, Golgi apparatus, mitochondria, and other cellular components. Neurons also contain unique structures, illustrated in <link target-id="fig-ch35_01_02" document=""/> for receiving and sending the electrical signals that make neuronal communication possible. <term>Dendrites</term> are tree-like structures that extend away from the cell body to receive messages from other neurons at specialized junctions called <term>synapses</term>. Although some neurons do not have any dendrites, some types of neurons have multiple dendrites. Dendrites can have small protrusions called dendritic spines, which further increase surface area for possible synaptic connections.</para><para id="fs-idm14255728">Once a signal is received by the dendrite, it then travels passively to the cell body. The cell body contains a specialized structure, the <term>axon hillock</term> that integrates signals from multiple synapses and serves as a junction between the cell body and an <term>axon</term>. An axon is a tube-like structure that propagates the integrated signal to specialized endings called <term>axon terminals</term>. These terminals in turn synapse on other neurons, muscle, or target organs. Chemicals released at axon terminals allow signals to be communicated to these other cells. Neurons usually have one or two axons, but some neurons, like amacrine cells in the retina, do not contain any axons. Some axons are covered with <term>myelin</term>, which acts as an insulator to minimize dissipation of the electrical signal as it travels down the axon, greatly increasing the speed on conduction. This insulation is important as the axon from a human motor neuron can be as long as a meter—from the base of the spine to the toes. The myelin sheath is not actually part of the neuron. Myelin is produced by glial cells. Along the axon there are periodic gaps in the myelin sheath. These gaps are called <term>nodes of Ranvier</term> and are sites where the signal is “recharged” as it travels along the axon.</para>
+<para id="fs-idp114206336">It is important to note that a single neuron does not act alone—neuronal communication depends on the connections that neurons make with one another (as well as with other cells, like muscle cells). Dendrites from a single neuron may receive synaptic contact from many other neurons. For example, dendrites from a Purkinje cell in the cerebellum are thought to receive contact from as many as 200,000 other neurons.</para>
+<note id="fs-idp48683952" class="art-connection"><label/><title>Art Connection</title>
+<figure id="fig-ch35_01_02" class=" "><media id="fs-idp123228912" alt="Illustration shows a neuron. The main part of the cell body, called the soma, contains the nucleus. Branch-like dendrites project from three sides of the soma. A long, thin axon projects from the fourth side. The axon branches at the end. The tip of the axon is in close proximity to dendrites of an adjacent nerve cell. The narrow space between the axon and dendrites is called the synapse. Cells called oligodendrocytes are located next to the axon. Projections from the oligodendrocytes wrap around the axon, forming a myelin sheath. The myelin sheath is not continuous, and gaps where the axon is exposed are called nodes of Ranvier.">
+<image mime-type="image/png" src="../../media/Figure_35_01_02.png" width="525"/>
+</media>
+    <caption>Neurons contain organelles common to many other cells, such as a nucleus and mitochondria. They also have more specialized structures, including dendrites and axons.</caption></figure><!--<para><link target-id="fig-ch35_01_02" document=""/>B</para>-->
+</note></section>
+<section id="fs-idp157648880"><title>Types of Neurons</title><para id="fs-idp6233104">There are different types of neurons, and the functional role of a given neuron is intimately dependent on its structure. There is an amazing diversity of neuron shapes and sizes found in different parts of the nervous system (and across species), as illustrated by the neurons shown in <link target-id="fig-ch35_01_03" document=""/>.</para>
+<figure id="fig-ch35_01_03" class=" "><media id="fs-idp197242752" alt="Part A shows a pyramidal cell with two long, branched projections on either end of the soma. Dendrites branch from either side. Part B shows a Purkinje cell with highly branched dendrites opposite the axon. Part C shows cells with long, thin axons. The dendrites are less branched than in pyramidal or Purkinje cells.">
+<image mime-type="image/jpg" src="../../media/Figure_35_01_03.jpg" width="550"/>
+</media>
+    <caption>There is great diversity in the size and shape of neurons throughout the nervous system. Examples include (a) a pyramidal cell from the cerebral cortex, (b) a Purkinje cell from the cerebellar cortex, and (c) olfactory cells from the olfactory epithelium and olfactory bulb.</caption></figure><para id="fs-idp205596576">Multipolar neurons are the most common type of neuron. Each multipolar neuron contains one axon and multiple dendrites. Multipolar neurons can be found in the central nervous system (brain and spinal cord). An example of a multipolar neuron is a Purkinje cell in the cerebellum, which has many branching dendrites but only one axon.</para><figure id="fig-ch35_01_04" class=" "><media id="fs-idp121293680" alt="The unipolar cell has a single, long axon extending from the cell body. The bipolar neuron has two axons projecting from opposite sides of the cell body. The multipolar neuron has one long axon and several short, highly branched axons extending in all directions. The pseudounipolar neuron has one axon that forms two branches a short distance from the cell body, each of which extends in a different direction.">
+        <image mime-type="image/jpg" src="../../media/Figure_35_01_04.jpg" width="550"/>
+    </media>
+<caption>Neurons are broadly divided into four main types based on the number and placement of axons: (1) unipolar, (2) bipolar, (3) multipolar, and (4) pseudounipolar.</caption></figure>
+<note id="fs-idp128114784" class="everyday">
+    <label/>
+<title>Everyday Connection</title>
+<para id="eip-idp33932256">
+    <title>Neurogenesis</title>
+At one time, scientists believed that people were born with all the neurons they would ever have. Research performed during the last few decades indicates that neurogenesis, the birth of new neurons, continues into adulthood. Neurogenesis was first discovered in songbirds that produce new neurons while learning songs. For mammals, new neurons also play an important role in learning: about 1000 new neurons develop in the hippocampus (a brain structure involved in learning and memory) each day. While most of the new neurons will die, researchers found that an increase in the number of surviving new neurons in the hippocampus correlated with how well rats learned a new task. Interestingly, both exercise and some antidepressant medications also promote neurogenesis in the hippocampus. Stress has the opposite effect. While neurogenesis is quite limited compared to regeneration in other tissues, research in this area may lead to new treatments for disorders such as Alzheimer’s, stroke, and epilepsy.</para>
+<para id="fs-idp144832192">How do scientists identify new neurons? A researcher can inject a compound called bromodeoxyuridine (BrdU) into the brain of an animal. While all cells will be exposed to BrdU, BrdU will only be incorporated into the DNA of newly generated cells that are in S phase. A technique called immunohistochemistry can be used to attach a fluorescent label to the incorporated BrdU, and a researcher can use fluorescent microscopy to visualize the presence of BrdU, and thus new neurons, in brain tissue. <link target-id="fig-ch35_01_05" document=""/> is a micrograph which shows fluorescently labeled neurons in the hippocampus of a rat.</para>
+<figure id="fig-ch35_01_05" class=" "><media id="fs-idm5321728" alt="In the micrograph, several cells are fluorescently labeled green only. Three cells are labeled red only, and four cells are labeled green and red. The cells labeled green and red are astrocytes, and the cells labeled red are neurons. The neurons are oval and about ten microns long. Astrocytes are slightly larger and irregularly shaped.">
+<image mime-type="image/jpg" src="../../media/Figure_35_01_05.jpg" width="300"/>
+</media>
+    <caption>This micrograph shows fluorescently labeled new neurons in a rat hippocampus. Cells that are actively dividing have bromodoxyuridine (BrdU) incorporated into their DNA and are labeled in red. Cells that express glial fibrillary acidic protein (GFAP) are labeled in green. Astrocytes, but not neurons, express GFAP. Thus, cells that are labeled both red and green are actively dividing astrocytes, whereas cells labeled red only are actively dividing neurons. (credit: modification of work by Dr. Maryam Faiz, et. al., University of Barcelona; scale-bar data from Matt Russell)</caption></figure></note>
+</section></section>
+<section id="fs-idm1127504">
+<title>Glia</title>
+<para id="fs-idp1149712">While glia are often thought of as the supporting cast of the nervous system, the number of glial cells in the brain actually outnumbers the number of neurons by a factor of ten. Neurons would be unable to function without the vital roles that are fulfilled by these glial cells. Glia guide developing neurons to their destinations, buffer ions and chemicals that would otherwise harm neurons, and provide myelin sheaths around axons. Scientists have recently discovered that they also play a role in responding to nerve activity and modulating communication between nerve cells. When glia do not function properly, the result can be disastrous—most brain tumors are caused by mutations in glia.</para>
+</section>
+    <section id="fs-idp22443584" class="summary">
+<title>Section Summary</title><para id="fs-idp378795264">The nervous system is made up of neurons and glia. Neurons are specialized cells that are capable of sending electrical as well as chemical signals. Most neurons contain dendrites, which receive these signals, and axons that send signals to other neurons or tissues. There are four main types of neurons: unipolar, bipolar, multipolar, and pseudounipolar neurons. Glia are non-neuronal cells in the nervous system that support neuronal development and signaling. There are several types of glia that serve different functions.</para>
+</section>
+    <section id="fs-idp10611536" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp144948560">
+<problem id="fs-idp57786752"><para id="fs-idp167342816">Neurons contain ________, which can receive signals from other neurons.</para>
+<list id="fs-idp243665696" list-type="enumerated" number-style="lower-alpha">
+<item>axons</item>
+<item>mitochondria</item>
+<item>dendrites</item>
+<item>Golgi bodies</item>
+</list>
+</problem>
+<solution id="fs-idp3406912">
+<label/>
+<para id="fs-idp88920624">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp105367408">
+<problem id="fs-idp127006400"><para id="fs-idp159410448">A(n) ________ neuron has one axon and multiple dendrites.</para><list id="fs-idp217115712" list-type="enumerated" number-style="lower-alpha">
+<item>unipolar</item>
+<item>bipolar</item>
+<item>multipolar</item>
+<item>pseudounipolar</item>
+</list>
+</problem>
+<solution id="fs-idp1688368">
+<label/>
+<para id="fs-idp297502864">C</para></solution>
+</exercise>
+</section>
+<section id="fs-idp230387984" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp59208528">
+<problem id="fs-idp118952000"><para id="fs-idp35295504">How are neurons similar to other cells? How are they unique?</para></problem>
+<solution id="fs-idp104620544"><label/>
+<para id="fs-idp128113792">Neurons contain organelles common to all cells, such as a nucleus and mitochondria. They are unique because they contain dendrites, which can receive signals from other neurons, and axons that can send these signals to other cells.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp163966800">
+<problem id="fs-idp122417344"><para id="fs-idp77249616">Multiple sclerosis causes demyelination of axons in the brain and spinal cord. Why is this problematic?</para></problem>
+<solution id="fs-idp179415328"><label/>
+<para id="fs-idp150544048">Myelin provides insulation for signals traveling along axons. Without myelin, signal transmission can slow down and degrade over time. This would slow down neuronal communication across the nervous system and affect all downstream functions.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp10059120"><term>axon</term> <meaning id="fs-idp288385120">tube-like structure that propagates a signal from a neuron’s cell body to axon terminals</meaning></definition>
+<definition id="fs-idp182298128"><term>axon hillock</term> <meaning id="fs-idp163443840">electrically sensitive structure on the cell body of a neuron that integrates signals from multiple neuronal connections</meaning></definition>
+<definition id="fs-idp59575744"><term>axon terminal</term> <meaning id="fs-idp41690064">structure on the end of an axon that can form a synapse with another neuron</meaning></definition>
+<definition id="fs-idp264569040"><term>dendrite</term> <meaning id="fs-idp111283824">structure that extends away from the cell body to receive messages from other neurons</meaning></definition>
+<definition id="fs-idp191614144"><term>glia</term> <meaning id="fs-idp111367728">(also, glial cells) cells that provide support functions for neurons</meaning></definition>
+<definition id="fs-idp240673536"><term>myelin</term> <meaning id="fs-idp28398320">fatty substance produced by glia that insulates axons</meaning></definition>
+<definition id="fs-idp69243696"><term>neuron</term> <meaning id="fs-idp250235856">specialized cell that can receive and transmit electrical and chemical signals</meaning></definition>
+<definition id="fs-idp122708736"><term>nodes of Ranvier</term> <meaning id="fs-idp241225360">gaps in the myelin sheath where the signal is recharged</meaning></definition>
+<definition id="fs-idp101331568"><term>synapse</term> <meaning id="fs-idp60042400">junction between two neurons where neuronal signals are communicated</meaning></definition>
+</glossary>
+</document>

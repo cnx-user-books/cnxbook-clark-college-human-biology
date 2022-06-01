@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Classification of Organisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57961</md:content-id>
+  <md:title>Classification of Organisms</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the levels of organization among living things</item>
+<item>State the domain, kingdom, genus, and species for humans</item>
+</list></md:abstract>
+  <md:uuid>cac04a25-f4ac-4b54-a826-d03cb2a7bbfc</md:uuid>
+</metadata>
+
+<content>
+        <section id="fs-idm10829232">
+            <title>The Diversity of Life</title>
+            <para id="fs-idm25429264">In the 18th century, a scientist named Carl Linnaeus first proposed organizing the known species of organisms into a hierarchical taxonomy. In this system, species that are most similar to each other are put together within a grouping known as a genus. Furthermore, similar genera (the plural of genus) are put together within a family. This grouping continues until all organisms are collected together into groups at the highest level. The current taxonomic system now has eight levels in its hierarchy, from lowest to highest: species, genus, family, order, class, phylum, kingdom, domain. Thus species are grouped within genera, genera are grouped within families, families are grouped within orders, and so on (<link target-id="fig-ch01_01_08" document=""/>).</para><figure id="fig-ch01_01_08"><media id="fs-idm125583568" alt="A chart shows the eight levels of taxonomic hierarchy for the dog, Canis lupus.                     ">
+                    <image mime-type="image/jpg" src="../../media/Figure_01_01_08.jpg" width="520"/>
+                </media>
+                <caption>This diagram shows the levels of taxonomic hierarchy for a dog, from the broadest category—domain—to the most specific—species. Notice that humans and dogs diverge at the level of order.  Humans are classified in the following levels: order-Primates; family-Hominidae; genus: Homo; species- Homo sapiens; scientific/binomial name: Homo sapiens.</caption></figure><para id="fs-idm76440992">In addition to the hierarchical taxonomic system, Linnaeus was the first to name organisms using two unique names, now called the binomial naming system. Before Linnaeus, the use of common names to refer to organisms caused confusion because there were regional differences in these common names. Binomial names (also called scientific names) consist of the genus name (which is capitalized) and the species name (all lower-case). Both names are set in italics when they are printed. Every species is given a unique binomial which is recognized the world over, so that a scientist in any location can know which organism is being referred to. For example, the North American blue jay is known uniquely as <emphasis effect="italics">Cyanocitta cristata</emphasis>. Our own species is <emphasis effect="italics">Homo sapiens</emphasis>.</para><note id="fs-idm108538560" class="evolution non-majors"><label/>
+            
+    
+            </note></section>
+
+        </content>
+
+    <glossary>
+        <definition id="fs-idm17545584"><term>atom</term> <meaning id="fs-idm41446080">a basic unit of matter that cannot be broken down by normal chemical reactions</meaning></definition>
+        <definition id="fs-idm19475200"><term>biology</term> <meaning id="fs-idm60761200">the study of living organisms and their interactions with one another and their environments</meaning></definition>
+        <definition id="fs-idm19153088"><term>biosphere</term> <meaning id="fs-idm18996064">a collection of all ecosystems on Earth</meaning></definition>
+        <definition id="fs-idm61529952"><term>cell</term> <meaning id="fs-idm28458496">the smallest fundamental unit of structure and function in living things</meaning></definition>
+        <definition id="fs-idm127697392"><term>community</term> <meaning id="fs-idm60799520">a set of populations inhabiting a particular area</meaning></definition>
+        <definition id="fs-idm74280784"><term>ecosystem</term> <meaning id="fs-idm62480352">all living things in a particular area together with the abiotic, nonliving parts of that environment</meaning></definition>
+        <definition id="fs-idm80696624"><term>eukaryote</term> <meaning id="fs-idm59473040">an organism with cells that have nuclei and membrane-bound organelles</meaning></definition>
+        <definition id="fs-idm58443328"><term>evolution</term> <meaning id="fs-idm54214224">the process of gradual change in a population that can also lead to new species arising from older species</meaning></definition>
+        <definition id="fs-idm41117184"><term>homeostasis</term> <meaning id="fs-idm76254000">the ability of an organism to maintain constant internal conditions</meaning></definition>
+        <definition id="fs-idm518832"><term>macromolecule</term> <meaning id="fs-idm74473904">a large molecule typically formed by the joining of smaller molecules</meaning></definition>
+        <definition id="fs-idm59477568"><term>molecule</term> <meaning id="fs-idm22070880">a chemical structure consisting of at least two atoms held together by a chemical bond</meaning></definition>
+        <definition id="fs-idm47135696"><term>organ</term> <meaning id="fs-idm53274960">a structure formed of tissues operating together to perform a common function</meaning></definition>
+        <definition id="fs-idm73130992"><term>organ system</term> <meaning id="fs-idm9181952">the higher level of organization that consists of functionally related organs</meaning></definition>
+        <definition id="fs-idm7168368"><term>organelle</term> <meaning id="fs-idm59599344">a membrane-bound compartment or sac within a cell</meaning></definition>
+        <definition id="fs-idm17991488"><term>organism</term> <meaning id="fs-idm79676656">an individual living entity</meaning></definition>
+        <definition id="fs-idm485824"><term>phylogenetic tree</term> <meaning id="fs-idm107117136">a diagram showing the evolutionary relationships among biological species based on similarities and differences in genetic or physical traits or both</meaning></definition>
+        <definition id="fs-idm74536096"><term>population</term> <meaning id="fs-idm11206032">all individuals within a species living within a specific area</meaning></definition>
+        <definition id="fs-idm71391472"><term>prokaryote</term> <meaning id="fs-idm42022320">a unicellular organism that lacks a nucleus or any other membrane-bound organelle</meaning></definition>
+        <definition id="fs-idm60819312"><term>tissue</term> <meaning id="fs-idm71924960">a group of similar cells carrying out the same function</meaning></definition>
+    </glossary>
+</document>

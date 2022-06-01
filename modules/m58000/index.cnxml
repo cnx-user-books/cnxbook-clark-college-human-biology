@@ -1,0 +1,144 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Gas Pressure, Volume, and Breathing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58000</md:content-id>
+  <md:title>Gas Pressure, Volume, and Breathing</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the mechanisms that drive breathing</item>
+<item>Discuss how pressure and volume are related</item>
+<item>List the steps involved in breather</item>
+<item>Discuss the physical factors related to breathing</item>
+<item>Discuss factors that can influence the respiratory rate</item>
+</list></md:abstract>
+  <md:uuid>d04bf431-26d5-49c5-9470-21309e8d233c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2634025">Breathing can be described as the movement of air into (inspiration/inhalation) and out of the lungs (expiration/exhalation). The major mechanism that drive breathing is differences between  atmospheric pressure and the air pressure within the lungs.</para><section id="fs-id2057814">
+<title>Relationship Between Pressure and Volume</title><section id="fs-id2339806">
+<para id="fs-id2754129">Inspiration (or inhalation) and expiration (or exhalation) are dependent on the differences in pressure between the atmosphere and the lungs. In a gas, pressure is a force created by the movement of gas molecules that are confined. For example, a certain number of gas molecules in a two-liter container has more room than the same number of gas molecules in a one-liter container (<link target-id="fig-ch23_03_01" document=""/>). In this case, the force exerted by the movement of the gas molecules against the walls of the two-liter container is lower than the force exerted by the gas molecules in the one-liter container. Therefore, the pressure is lower in the two-liter container and higher in the one-liter container. At a constant temperature, changing the volume occupied by the gas changes the pressure, as does changing the number of gas molecules. <term>Boyle’s law</term> describes the relationship between volume and pressure in a gas at a constant temperature. Boyle discovered that the pressure of a gas is inversely proportional to its volume: If volume increases, pressure decreases. Likewise, if volume decreases, pressure increases. Pressure and volume are inversely related (<emphasis effect="italics">P</emphasis> = k/<emphasis effect="italics">V</emphasis>). Therefore, the pressure in the one-liter container (one-half the volume of the two-liter container) would be twice the pressure in the two-liter container. Boyle’s law is expressed by the following formula:</para>
+
+<equation id="eip-832"><m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mi>P</m:mi>
+   <m:mn>1</m:mn>
+  </m:msub>
+  <m:msub>
+   <m:mi>V</m:mi>
+   <m:mn>1</m:mn>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mi>P</m:mi>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:msub>
+   <m:mi>V</m:mi>
+   <m:mn>2</m:mn>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+</equation><para id="fs-id1493008">In this formula, <emphasis effect="italics">P</emphasis><sub>1</sub> represents the initial pressure and <emphasis effect="italics">V</emphasis><sub>1</sub> represents the initial volume, whereas the final pressure and volume are represented by <emphasis effect="italics">P</emphasis><sub>2</sub> and <emphasis effect="italics">V</emphasis><sub>2, </sub>respectively. If the two- and one-liter containers were connected by a tube and the volume of one of the containers were changed, then the gases would move from higher pressure (lower volume) to lower pressure (higher volume).</para>
+<figure id="fig-ch23_03_01"><title>Boyle's Law </title><media id="fs-id1990132" alt="This diagram shows two canisters containing a gas. The two canisters show how volume and pressure are inversely proportional, which illustrates Boyle’s law.">
+<image mime-type="image/jpg" src="../../media/2314_Boyles_Law.jpg" width="420"/>
+</media>
+<caption>In a gas, pressure increases as volume decreases.</caption></figure><para id="fs-id2316302"><term>Atmospheric pressure</term> is the amount of force that is exerted by gases in the air surrounding any given surface, such as the body. Atmospheric pressure can be expressed in millimeters of mercury (mm Hg), which is similar to the phrase "inches of mercury" used to describe atmospheric pressure on weather reports. 760 mm Hg is the atmospheric pressure at sea level under highly specific parameters of latitude and temperature.</para></section>
+<section id="eip-960"><title>How Changes in Volume and Pressure are Accomplished During Breathing</title><para id="eip-719">In addition to the differences in pressures, breathing is also dependent upon the contraction and relaxation of muscle fibers of both the diaphragm and thorax. The lungs themselves are passive during breathing, meaning they are not involved in creating the movement that helps inspiration and expiration. Contraction and relaxation of the diaphragm and intercostal muscles (found between the ribs) cause most of the pressure changes that result in inspiration and expiration. These muscle movements and subsequent pressure changes cause air to either rush in or be forced out of the lungs.
+</para><para id="eip-575">During inspiration, the diaphragm and external intercostal muscles contract, causing the rib cage to expand and move outward, and expanding the thoracic cavity and lung volume. This creates a lower pressure within the lung than that of the atmosphere, causing air to be drawn into the lungs. During expiration, the diaphragm and intercostals relax, causing the thorax and lungs to recoil. The air pressure within the lungs increases to above the pressure of the atmosphere, causing air to be forced out of the lungs. </para></section></section>
+<section id="fs-id2129879">
+<title>Respiratory Rate </title><para id="fs-id2278288">Breathing usually occurs without thought, although at times you can consciously control it, such as when you swim under water, sing a song, or blow bubbles. The <term>respiratory rate</term> is the total number of breaths, or respiratory cycles, that occur each minute. Respiratory rate can be an important indicator of disease, as the rate may increase or decrease during an illness or in a disease condition. The respiratory rate is controlled by the respiratory center located within the brain, which responds primarily to changes in carbon dioxide, oxygen, and pH levels in the blood.</para><para id="fs-id2100118">The normal respiratory rate of a child decreases from birth to adolescence. A child under 1 year of age has a normal respiratory rate between 30 and 60 breaths per minute, but by the time a child is about 10 years old, the normal rate is closer to 18 to 30. By adolescence, the normal respiratory rate is similar to that of adults, 12 to 18 breaths per minute.</para>
+</section>
+<section id="fs-id810328" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2079558">The process of breathing is driven by pressure differences between the lungs and the atmosphere. Atmospheric pressure is the force exerted by gases present in the atmosphere. Pressure is determined by the volume of the space occupied by a gas. Air flows when a pressure gradient is created, from a space of higher pressure to a space of lower pressure. Boyle’s law describes the relationship between volume and pressure. A gas is at lower pressure in a larger volume because the gas molecules have more space to in which to move. The same quantity of gas in a smaller volume results in gas molecules crowding together, producing increased pressure.</para><para id="fs-id2344854">Pulmonary ventilation consists of the process of inspiration (or inhalation), where air enters the lungs, and expiration (or exhalation), where air leaves the lungs. During inspiration, the diaphragm and external intercostal muscles contract, causing the rib cage to expand and move outward, and expanding the thoracic cavity and lung volume. This creates a lower pressure within the lung than that of the atmosphere, causing air to be drawn into the lungs. During expiration, the diaphragm and intercostals relax, causing the thorax and lungs to recoil. The air pressure within the lungs increases to above the pressure of the atmosphere, causing air to be forced out of the lungs. </para><para id="fs-id2590391">Both respiratory rate and depth are controlled by the respiratory centers of the brain, which are stimulated by factors such as chemical and pH changes in the blood. A rise in carbon dioxide or a decline in oxygen levels in the blood stimulates an increase in respiratory rate and depth.</para></section>
+<section id="fs-id2472486" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1748683">
+<problem id="fs-id2870592"><para id="fs-id2785017">What are the units for measuring air pressure?</para><list id="fs-id1493090" list-type="enumerated" number-style="lower-alpha"><item>mm Hg</item>
+<item>mm O2</item>
+<item>Percent Hg</item>
+<item>Percent O2</item>
+</list></problem>
+<solution id="fs-id2717854">
+<label/>
+<para id="fs-id2321066">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2568609">
+<problem id="fs-id2101699"><para id="fs-id2101700">A decrease in volume leads to a(n) ________ pressure.</para>
+<list id="fs-id2684480" list-type="enumerated" number-style="lower-alpha">
+<item>decrease in</item>
+<item>equalization of</item>
+<item>increase in</item>
+<item>zero</item>
+</list>
+</problem>
+<solution id="fs-id1984518">
+<label/>
+<para id="fs-id2650966">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2304737">
+<problem id="fs-id3908756"><para id="fs-id2293091">Contraction of the external intercostal muscles causes which of the following to occur?</para><list id="fs-id2174747" list-type="enumerated" number-style="lower-alpha">
+<item>The diaphragm moves downward.</item>
+<item>The rib cage is compressed.</item>
+<item>The thoracic cavity volume decreases.</item>
+<item>The ribs and sternum move upward.</item>
+</list>
+</problem>
+<solution id="fs-id2197814">
+<label/>
+<para id="fs-id2270474">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2045576" class="free-response">
+<title>Critical Thinking Questions</title><exercise id="fs-id1927378">
+<problem id="fs-id2505389"><para id="fs-id1525882">Outline the steps involved in quiet breathing.</para></problem>
+<solution id="fs-id2137966"><label/>
+<para id="fs-id2575781">Quiet breathing occurs at rest and without active thought. During quiet breathing, the diaphragm and external intercostal muscles work at different extents, depending on the situation. For inspiration, the diaphragm contracts, causing the diaphragm to flatten and drop towards the abdominal cavity, helping to expand the thoracic cavity. The external intercostal muscles contract as well, causing the rib cage to expand, and the rib cage and sternum to move outward, also expanding the thoracic cavity. Expansion of the thoracic cavity also causes the lungs to expand. As a result, the pressure within the lungs drops below that of the atmosphere, causing air to rush into the lungs. In contrast, expiration is a passive process. As the diaphragm and intercostal muscles relax, the lungs and thoracic tissues recoil, and the volume of the lungs decreases. This causes the pressure within the lungs to increase above that of the atmosphere, causing air to leave the lungs.</para></solution>
+</exercise>
+<exercise id="fs-id2339134">
+<problem id="fs-id2239876"><para id="fs-id2737705">What is respiratory rate and how is it controlled?</para></problem>
+<solution id="fs-id2652305"><label/>
+<para id="fs-id2024383">Respiratory rate is defined as the number of breaths taken per minute. Respiratory rate is controlled by the respiratory center, located in the brain. Conscious thought can alter the normal respiratory rate through control by skeletal muscle, although one cannot consciously stop the rate altogether. A typical resting respiratory rate is about 14 breaths per minute.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1645755"><term>alveolar dead space</term> <meaning id="fs-id2370713"> air space within alveoli that are unable to participate in gas exchange</meaning></definition>
+<definition id="fs-id1546855"><term>anatomical dead space</term> <meaning id="fs-id2442013"> air space present in the airway that never reaches the alveoli and therefore never participates in gas exchange</meaning></definition>
+<definition id="fs-id2583889"><term>apneustic center</term> <meaning id="fs-id2000156"> network of neurons within the pons that stimulate the neurons in the dorsal respiratory group; controls the depth of inspiration</meaning></definition>
+<definition id="fs-id2485455"><term>atmospheric pressure</term> <meaning id="fs-id2310092"> amount of force that is exerted by gases in the air surrounding any given surface</meaning></definition>
+<definition id="fs-id2493350"><term>Boyle’s law</term> <meaning id="fs-id2803755"> relationship between volume and pressure as described by the formula: <emphasis effect="italics">P</emphasis><sub>1</sub><emphasis effect="italics">V</emphasis><sub>1</sub> = <emphasis effect="italics">P</emphasis><sub>2</sub><emphasis effect="italics">V</emphasis><sub>2</sub></meaning></definition>
+<definition id="fs-id1541250"><term>central chemoreceptor</term> <meaning id="fs-id2024530"> one of the specialized receptors that are located in the brain that sense changes in hydrogen ion, oxygen, or carbon dioxide concentrations in the brain</meaning></definition>
+<definition id="fs-id2532943"><term>dorsal respiratory group (DRG)</term> <meaning id="fs-id1982771"> region of the medulla oblongata that stimulates the contraction of the diaphragm and intercostal muscles to induce inspiration</meaning></definition>
+<definition id="fs-id1521890"><term>expiration</term> <meaning id="fs-id1692320">(also, exhalation) process that causes the air to leave the lungs</meaning></definition>
+<definition id="fs-id1381487"><term>expiratory reserve volume (ERV)</term> <meaning id="fs-id2363708"> amount of air that can be forcefully exhaled after a normal tidal exhalation</meaning></definition>
+<definition id="fs-id2570030"><term>forced breathing</term> <meaning id="fs-id2601515"> (also, hyperpnea) mode of breathing that occurs during exercise or by active thought that requires muscle contraction for both inspiration and expiration</meaning></definition>
+<definition id="fs-id2011096"><term>functional residual capacity (FRC)</term> <meaning id="fs-id2277344"> sum of ERV and RV, which is the amount of air that remains in the lungs after a tidal expiration</meaning></definition>
+<definition id="fs-id2396057"><term>inspiration</term> <meaning id="fs-id1342388">(also, inhalation) process that causes air to enter the lungs</meaning></definition>
+<definition id="fs-id2511836"><term>inspiratory capacity (IC)</term> <meaning id="fs-id2585819"> sum of the TV and IRV, which is the amount of air that can maximally be inhaled past a tidal expiration</meaning></definition>
+<definition id="fs-id2369829"><term>inspiratory reserve volume (IRV)</term> <meaning id="fs-id2026218"> amount of air that enters the lungs due to deep inhalation past the tidal volume</meaning></definition>
+<definition id="fs-id2696592"><term>intra-alveolar pressure</term> <meaning id="fs-id2455127"> (intrapulmonary pressure) pressure of the air within the alveoli</meaning></definition>
+<definition id="fs-id2585624"><term>intrapleural pressure</term> <meaning id="fs-id1890777"> pressure of the air within the pleural cavity</meaning></definition>
+<definition id="fs-id2399844"><term>peripheral chemoreceptor</term> <meaning id="fs-id2506822"> one of the specialized receptors located in the aortic arch and carotid arteries that sense changes in pH, carbon dioxide, or oxygen blood levels</meaning></definition>
+<definition id="fs-id1640297"><term>pneumotaxic center</term> <meaning id="fs-id2761157"> network of neurons within the pons that inhibit the activity of the neurons in the dorsal respiratory group; controls rate of breathing</meaning></definition>
+<definition id="fs-id1583279"><term>pulmonary ventilation</term> <meaning id="fs-id2052239"> exchange of gases between the lungs and the atmosphere; breathing</meaning></definition>
+<definition id="fs-id1432174"><term>quiet breathing</term> <meaning id="fs-id2603306"> (also, eupnea) mode of breathing that occurs at rest and does not require the cognitive thought of the individual</meaning></definition>
+<definition id="fs-id2624663"><term>residual volume (RV)</term> <meaning id="fs-id2365280"> amount of air that remains in the lungs after maximum exhalation</meaning></definition>
+<definition id="fs-id1531740"><term>respiratory cycle</term> <meaning id="fs-id2572281"> one sequence of inspiration and expiration</meaning></definition>
+<definition id="fs-id1881065"><term>respiratory rate</term> <meaning id="fs-id2597062"> total number of breaths taken each minute</meaning></definition>
+<definition id="fs-id2254561"><term>respiratory volume</term> <meaning id="fs-id1365230"> varying amounts of air within the lung at a given time</meaning></definition>
+<definition id="fs-id1968547"><term>thoracic wall compliance</term> <meaning id="fs-id2573865"> ability of the thoracic wall to stretch while under pressure</meaning></definition>
+<definition id="fs-id2176674"><term>tidal volume (TV)</term> <meaning id="fs-id2016132"> amount of air that normally enters the lungs during quiet breathing</meaning></definition>
+<definition id="fs-id1909030"><term>total dead space</term> <meaning id="fs-id2584422"> sum of the anatomical dead space and alveolar dead space</meaning></definition>
+<definition id="fs-id2294303"><term>total lung capacity (TLC)</term> <meaning id="fs-id1434135"> total amount of air that can be held in the lungs; sum of TV, ERV, IRV, and RV</meaning></definition>
+<definition id="fs-id2076518"><term>transpulmonary pressure</term> <meaning id="fs-id2927791"> pressure difference between the intrapleural and intra-alveolar pressures</meaning></definition>
+<definition id="fs-id2725010"><term>ventral respiratory group (VRG)</term> <meaning id="fs-id1546205"> region of the medulla oblongata that stimulates the contraction of the accessory muscles involved in respiration to induce forced inspiration and expiration</meaning></definition>
+<definition id="fs-id1891468"><term>vital capacity (VC)</term> <meaning id="fs-id2105558"> sum of TV, ERV, and IRV, which is all the volumes that participate in gas exchange</meaning></definition>
+</glossary>
+</document>

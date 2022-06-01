@@ -1,0 +1,177 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11903</md:content-id>
+    <md:title>Human Biology </md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>e5923bd5-daf5-4ea1-ac91-cf39e8478c9e</md:uuid>
+<md:slug>clark-college-human-biology</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m57955"/>
+    <col:subcollection>
+      <md:title>Introduction to Human Biology and the Scientific Method</md:title>
+      <col:content>
+        <col:module document="m57956"/>
+        <col:module document="m57957"/>
+        <col:module document="m57958"/>
+        <col:module document="m57961"/>
+        <col:module document="m57960"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemistry and Life</md:title>
+      <col:content>
+        <col:module document="m57962"/>
+        <col:module document="m57963"/>
+        <col:module document="m57964"/>
+        <col:module document="m57965"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cells</md:title>
+      <col:content>
+        <col:module document="m57967"/>
+        <col:module document="m57968"/>
+        <col:module document="m57969"/>
+        <col:module document="m57970"/>
+        <col:module document="m57971"/>
+        <col:module document="m57973"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>DNA and Gene Expression</md:title>
+      <col:content>
+        <col:module document="m57974"/>
+        <col:module document="m57975"/>
+        <col:module document="m57976"/>
+        <col:module document="m57978"/>
+        <col:module document="m57979"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Digestive System</md:title>
+      <col:content>
+        <col:module document="m57980"/>
+        <col:module document="m57981"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Energy Considerations</md:title>
+      <col:content>
+        <col:module document="m57982"/>
+        <col:module document="m57983"/>
+        <col:module document="m57984"/>
+        <col:module document="m57985"/>
+        <col:module document="m57986"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Blood</md:title>
+      <col:content>
+        <col:module document="m57987"/>
+        <col:module document="m57989"/>
+        <col:module document="m58119"/>
+        <col:module document="m57991"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Heart</md:title>
+      <col:content>
+        <col:module document="m57992"/>
+        <col:module document="m57993"/>
+        <col:module document="m57994"/>
+        <col:module document="m57995"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Blood Vessels</md:title>
+      <col:content>
+        <col:module document="m57996"/>
+        <col:module document="m57997"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Respiratory System</md:title>
+      <col:content>
+        <col:module document="m57998"/>
+        <col:module document="m57999"/>
+        <col:module document="m58000"/>
+        <col:module document="m58001"/>
+        <col:module document="m58002"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Hormones</md:title>
+      <col:content>
+        <col:module document="m58003"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Urinary System</md:title>
+      <col:content>
+        <col:module document="m58004"/>
+        <col:module document="m58008"/>
+        <col:module document="m58009"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Mitosis and Meiosis</md:title>
+      <col:content>
+        <col:module document="m58010"/>
+        <col:module document="m58011"/>
+        <col:module document="m58012"/>
+        <col:module document="m58013"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reproductive Systems</md:title>
+      <col:content>
+        <col:module document="m58014"/>
+        <col:module document="m58078"/>
+        <col:module document="m58079"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Skeletal System</md:title>
+      <col:content>
+        <col:module document="m58080"/>
+        <col:module document="m58081"/>
+        <col:module document="m58082"/>
+        <col:module document="m58083"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Muscles and Movement</md:title>
+      <col:content>
+        <col:module document="m58084"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nervous System</md:title>
+      <col:content>
+        <col:module document="m58085"/>
+        <col:module document="m58086"/>
+        <col:module document="m58087"/>
+        <col:module document="m58090"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Special Senses</md:title>
+      <col:content>
+        <col:module document="m58112"/>
+        <col:module document="m58098"/>
+        <col:module document="m58109"/>
+        <col:module document="m58111"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Immune System</md:title>
+      <col:content>
+        <col:module document="m58113"/>
+        <col:module document="m58114"/>
+        <col:module document="m58115"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

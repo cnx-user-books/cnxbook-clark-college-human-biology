@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Homeostasis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57980</md:content-id>
+  <md:title>Homeostasis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the concept of homeostasis </item>
+<item>Describe the general process of thermoregulation in humans</item>
+</list></md:abstract>
+  <md:uuid>f6a4ac86-3a6a-4f6f-86f9-07a540770a73</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp49014592">Before moving on to discussing organ systems, it is important to review the concept of internal balance. Homeostasis refers to the relatively stable state inside the body. Human organs and organ systems constantly adjust to internal and external changes in order to maintain this steady state. Examples of internal conditions maintained homeostatically are the level of blood glucose, body temperature, and blood calcium level. These conditions remain stable because of physiologic processes that result in negative feedback relationships. If the blood glucose or calcium rises, this sends a signal to organs responsible for lowering blood glucose or calcium. The signals that restore the normal levels are examples of negative feedback. When homeostatic mechanisms fail, the results can be unfavorable. Homeostatic mechanisms keep the body in dynamic equilibrium by constantly adjusting to the changes that the body’s systems encounter. Even when a person is inactive, he/she is maintaining this homeostatic equilibrium. An examples of a factor that is regulated homeostatically is body temperature in a process called thermoregulation.</para><section id="fs-idm66574672">
+<title>Homeostasis</title>
+<para id="fs-idm19157504">The goal of homeostasis is the maintenance of equilibrium around a specific value of some aspect of the body or its cells called a <term>set point</term>. While there are normal fluctuations from the set point, the body’s systems will usually attempt to go back to this point. A change in the internal or external environment is called a stimulus and is detected by a receptor; the response of the system is to adjust the activities of the system so the value moves back toward the set point. For instance, if the body becomes too warm, adjustments are made to cool it. If glucose levels in the blood rise after a meal, adjustments are made to lower them and to get the nutrient into tissues that need it or to store it for later use.</para><para id="fs-idp8368784">When a change occurs in an animal’s environment, an adjustment must be made so that the internal environment of the body and cells remains stable. The receptor that senses the change in the environment is part of a feedback mechanism. The stimulus—temperature, glucose, or calcium levels—is detected by the receptor. The receptor sends information to a control center, often the brain, which relays appropriate signals to an effector organ that is able to cause an appropriate change, either up or down, depending on the information the sensor was sending.</para>
+</section>
+<section id="fs-idp605024">
+<title> Thermoregulation</title>
+<para id="fs-idp10834144">Animals, such as humans, that maintain a constant body temperature in the face of differing environmental temperatures, are called <term>endotherms</term>. We are able to maintain this temperature by generating internal heat (a waste product of the cellular chemical reactions of metabolism) that keeps the cellular processes operating optimally even when the environment is cold.</para><para id="fs-idm6871888">Endotherms use their circulatory systems to help maintain body temperature. Vasodilation, the opening up of arteries to the skin by relaxation of their smooth muscles, brings more blood and heat to the body surface, facilitating radiation and evaporative heat loss, cooling the body. Vasoconstriction, the narrowing of blood vessels to the skin by contraction of their smooth muscles, reduces blood flow in peripheral blood vessels, forcing blood toward the core and vital organs, conserving heat. </para><para id="fs-idp7862880">Thermoregulation is coordinated by the nervous system (<link target-id="fig-ch16_01_01" document=""/>). The processes of temperature control are centered in a region of the brain called the hypothalamus. The hypothalamus maintains the set point for body temperature through reflexes that cause vasodilation or vasoconstriction and shivering or sweating. The hypothalamus directs the responses that effect the changes in temperature loss or gain that return the body to the set point. The set point may be adjusted in some instances. During an infection, compounds called pyrogens are produced and circulate to the hypothalamus resetting the thermostat to a higher value. This allows the body’s temperature to increase to a new homeostatic equilibrium point in what is commonly called a fever. The increase in body heat makes the body less optimal for bacterial growth and increases the activities of cells so they are better able to fight the infection.</para><note id="fs-idp51436768" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-idm20926560"><figure id="fig-ch16_01_01" class=" "><media id="fs-idm83173600" alt="Flow chart shows how normal body temperature is maintained. If the body temperature rises, blood vessels dilate, resulting in loss of heat to the environment. Sweat glands secrete fluid. As this fluid evaporates, heat is lost from the body. As a result, the body temperature falls to normal body temperature. If body temperature falls, blood vessels constrict so that heat is conserved. Sweat glands do not secrete fluid. Shivering (involuntary contraction of muscles) releases heat which warms the body. Heat is retained, and body temperature increases to normal.">
+<image mime-type="image/png" src="../../media/Figure_16_01_01.png" width="550"/>
+</media>
+<caption>The body is able to regulate temperature in response to signals from the nervous system.</caption></figure></para>
+<!--<para><link target-id="fig-ch16_01_01" document=""/>Pyrogens increase body temperature by causing the blood vessels to constrict, inducing shivering, and stopping sweat glands from secreting fluid.</para>-->
+</note></section>
+<section id="fs-idm12423696" class="summary">
+<title>Section Summary</title><para id="fs-idm52075296">Homeostasis is a dynamic equilibrium that is maintained in body tissues and organs. It is dynamic because it is constantly adjusting to the changes that the systems encounter. It is an equilibrium because body functions are kept within a normal range, with some fluctuations around a set point.</para></section>
+<section id="fs-idp334208" class="art-exercise">
+<title>Art Connections</title>
+    <exercise id="fs-idm106514256"><problem id="fs-idm131203248"><para id="fs-idm47543552"><link target-id="fig-ch16_01_01" document=""/> When bacteria are destroyed by leukocytes, pyrogens are released into the blood. Pyrogens reset the body’s thermostat to a higher temperature, resulting in fever. How might pyrogens cause the body temperature to rise?</para></problem>
+<solution id="fs-idm58576352">
+<label/>
+    <para id="fs-idp35567568"><link target-id="fig-ch16_01_01" document=""/> Pyrogens increase body temperature by causing the blood vessels to constrict, inducing shivering, and stopping sweat glands from secreting fluid.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm101645232" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm93064928">
+<problem id="fs-idm3782672">
+<para id="fs-idm67846368">When faced with a sudden drop in environmental temperature, an endothermic animal will ________.</para>
+<list id="fs-idm378512" list-type="enumerated" number-style="lower-alpha">
+<item>experience a drop in its body temperature</item>
+<item>wait to see if it goes lower</item>
+<item>increase muscle activity to generate heat</item>
+<item>add fur or fat to increase insulation</item>
+</list>
+</problem>
+<solution id="fs-idm93560944">
+<label/>
+<para id="fs-idm118871184">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm99476144">
+<problem id="fs-idp11657392">
+<para id="fs-idm24941424">What is the cause of a fever of 38.3 °C (101 °F)?</para>
+<list id="fs-idp8558080" list-type="enumerated" number-style="lower-alpha">
+<item>too much heat produced by the body</item>
+<item>upward adjustment of the body temperature set point</item>
+<item>inadequate cooling mechanisms in the body</item>
+<item>the heat caused by a viral or bacterial infection</item>
+</list>
+</problem>
+<solution id="fs-idm83160384">
+<label/>
+<para id="fs-idm77741552">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm14115168" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm48843840">
+<problem id="fs-idm101812752"><para id="fs-idm86768400">Describe how the body’s mechanisms maintain homeostasis?</para></problem>
+<solution id="fs-idm25461712"><label/>
+<para id="fs-idm88477776">The body has a sensor that detects a deviation of the state of the cells or the body from the set point. The information is relayed to a control center, usually the brain, where signals go to effectors. Those effectors cause a negative feedback response that moves the state of the body in a direction back toward the set point.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm319712"><term>ectotherm</term> <meaning id="fs-idm41529600">an organism that relies primarily on environmental heat sources to maintain its body temperature</meaning></definition>
+<definition id="fs-idp112348256"><term>endotherm</term> <meaning id="fs-idm18535744">an organism that relies primarily on internal heat sources to maintain its body temperature</meaning></definition>
+<definition id="fs-idm48825152"><term>interstitial fluid</term> <meaning id="fs-idm94754624">the fluid found between cells in the body, similar in constitution to the fluid component of blood, but without the high concentrations of proteins</meaning></definition>
+<definition id="fs-idm19506080"><term>kidney</term> <meaning id="fs-idm21009968">the organ that performs excretory and osmoregulatory functions</meaning></definition>
+<definition id="fs-idp13253424"><term>nephron</term> <meaning id="fs-idm97789024">the functional unit of the kidney</meaning></definition>
+<definition id="fs-idm13161392"><term>osmoregulation</term> <meaning id="fs-idp11154624">the mechanism by which water and solute concentrations are maintained at desired levels</meaning></definition>
+<definition id="fs-idm40556640"><term>osmotic balance</term> <meaning id="fs-idm119607504">the appropriate values of water and solute concentrations for a healthy organism</meaning></definition>
+<definition id="fs-idm16447984"><term>renal artery</term> <meaning id="fs-idm5822096">the artery that delivers blood to the kidney</meaning></definition>
+<definition id="fs-idm81786464"><term>renal vein</term> <meaning id="fs-idm80666192">the vein that drains blood from the kidney</meaning></definition>
+<definition id="fs-idm14727024"><term>set point</term> <meaning id="fs-idm103453184">the target value of a physiological state in homeostasis</meaning></definition>
+<definition id="fs-idm42108928"><term>ureter</term> <meaning id="fs-idm69932832">the urine-bearing tubes coming out of the kidney</meaning></definition>
+<definition id="fs-idm80947456"><term>urethra</term> <meaning id="fs-idp9874672">the tube that conducts urine from the urinary bladder to the external environment</meaning></definition>
+<definition id="fs-idp12844736"><term>urinary bladder</term> <meaning id="fs-idm15188288">the structure that the ureters empty the urine into</meaning></definition>
+</glossary>
+</document>

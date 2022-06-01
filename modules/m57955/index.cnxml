@@ -1,0 +1,170 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57955</md:content-id>
+  <md:title>Preface</md:title>
+  <md:abstract>This book is derived from three OpenStax resources: Biology, Concepts of Biology, and Anatomy and Physiology.  It has been extensively edited so that the chapter order and content is appropriate for a non-majors human biology course.</md:abstract>
+  <md:uuid>2b0113a1-59f0-4d1c-ac47-97d66287f75e</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-406">Welcome to <emphasis effect="italics">Human Biology</emphasis>, a textbook created utilizing OpenStax resources. This textbook has been created with several goals in mind: accessibility, customization, and student engagement—all while encouraging students toward high levels of academic scholarship. Students will find that this textbook offers a strong introduction to human biology in an accessible format. </para><section id="eip-723"><title>About OpenStax College</title><para id="eip-960">OpenStax College is a non-profit organization committed to improving student access to quality learning materials. Their free textbooks are developed and peer-reviewed by educators to ensure they are readable, accurate, and meet the scope and sequence requirements of today’s college courses. Unlike traditional textbooks, OpenStax College resources live online and are owned by the community of educators using them. Through partnerships with companies and foundations committed to reducing costs for students, OpenStax College is working to improve access to higher education for all. OpenStax College is an initiative of Rice University and is made possible through the generous support of several philanthropic foundations.
+
+
+</para></section><section id="eip-46"><title>About OpenStax College's Resources</title><para id="eip-341">OpenStax College resources provide quality academic instruction. Three key features set our materials apart from others: they can be customized by instructors for each class, they are a “living” resource that grows online through contributions from science educators, and they are available free or for minimal cost.
+
+The materials for this book were compiled and customized by Willy Cushwa, with valuable editorial assistance provided by Jamey Marsh. Please send any content suggestions and/or corrections to Willy Cushwa at wcushwa@clark.edu.
+</para><section id="eip-912"><para id="eip-781">To broaden access and encourage community curation, our text books are “open source” licensed under a Creative Commons Attribution (CC-BY) license. The scientific community is invited to submit examples, emerging research, and other feedback to enhance and strengthen the material and keep it current and relevant for today’s students. Submit your suggestions to info@openstaxcollege.org, and check in on edition status, alternate versions, errata, and news on the StaxDash at http://openstaxcollege.org. 
+</para></section><section id="eip-604"><title>Cost</title><para id="eip-240">
+Our textbooks are available for free online, and in low-cost print and e-book editions. 
+</para></section></section><section id="eip-759"><title>About Our Team</title><para id="eip-121">
+<emphasis effect="italics">Concepts of Biology</emphasis> would not be possible if not for the tremendous contributions of the authors and community reviewing team
+</para>
+<section id="eip-id8320483"><title>Senior Contributors</title><table id="eip-919" frame="none" colsep="0" rowsep="0" summary="A listing of senior contributors to Concepts of Biology"><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Samantha Fowler</entry>
+    <entry>Clayton State University</entry>
+  </row>
+  <row>
+    <entry>Rebecca Roush</entry>
+    <entry>Sandhills Community College</entry>
+  </row>
+  <row>
+    <entry>James Wise</entry>
+    <entry>Hampton University</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table>
+</section><section id="eip-id4438849"><title>Faculty Contributors and Reviewers</title><table id="eip-825" colsep="0" rowsep="0" frame="none" summary="Faculty Contributors"><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Mark Belk</entry>
+    <entry>Brigham Young University</entry>
+  </row>
+  <row>
+    <entry>Lisa Boggs </entry>
+    <entry>Southwestern Oklahoma State University</entry>
+  </row>
+  <row>
+    <entry>Sherryl Broverman</entry>
+    <entry>Duke University</entry>
+  </row>
+  <row>
+    <entry>David Byres</entry>
+    <entry>Florida State College at Jacksonville</entry>
+  </row>
+  <row>
+    <entry>Aaron Cassill</entry>
+    <entry>The University of Texas at San Antonio</entry>
+  </row>
+  <row>
+    <entry>Karen Champ</entry>
+    <entry>College of Central Florida</entry>
+  </row>
+  <row>
+    <entry>Sue Chaplin</entry>
+    <entry>University of St. Thomas</entry>
+  </row>
+  <row>
+    <entry>Diane Day</entry>
+    <entry>Clayton State University</entry>
+  </row>
+  <row>
+    <entry>Jean DeSaix</entry>
+    <entry>University of North Carolina at Chapel Hill</entry>
+  </row>
+  <row>
+    <entry>David Hunnicutt</entry>
+    <entry>St. Norbert College</entry>
+  </row>
+  <row>
+    <entry>Barbara Kuehner</entry>
+    <entry>Hawaii Community College</entry>
+  </row>
+  <row>
+    <entry>Brenda Leady</entry>
+    <entry>University of Toledo</entry>
+  </row>
+  <row>
+    <entry>Bernie Marcus</entry>
+    <entry>Genesee Community College</entry>
+  </row>
+  <row>
+    <entry>Flora Mhlanga</entry>
+    <entry>Lipscomb University</entry>
+  </row>
+  <row>
+    <entry>Madeline Mignone</entry>
+    <entry>Dominican College</entry>
+  </row>
+  <row>
+    <entry>Elizabeth Nash</entry>
+    <entry>Long Beach City College</entry>
+  </row>
+  <row>
+    <entry>Mark Newton</entry>
+    <entry>San Jose City College</entry>
+  </row>
+  <row>
+    <entry>Diana Oliveras</entry>
+    <entry>University of Colorado Boulder</entry>
+  </row>
+  <row>
+    <entry>Ann Paterson</entry>
+    <entry>Williams Baptist College</entry>
+  </row>
+  <row>
+    <entry>Joel Piperberg</entry>
+    <entry>Millersville University</entry>
+  </row>
+  <row>
+    <entry>Nick Reeves</entry>
+    <entry>Mt. San Jacinto College</entry>
+  </row>
+  <row>
+    <entry>Ann Reisenauer</entry>
+    <entry>San Jose State University</entry>
+  </row>
+  <row>
+    <entry>Lynn Rumfelt</entry>
+    <entry>Gordon College</entry>
+  </row>
+  <row>
+    <entry>Michael Rutledge</entry>
+    <entry>Middle Tennessee State University</entry>
+  </row>
+  <row>
+    <entry>Edward Saiff</entry>
+    <entry>Ramapo College of New Jersey</entry>
+  </row>
+  <row>
+    <entry>Brian Shmaefsky</entry>
+    <entry>Kingwood College</entry>
+  </row>
+  <row>
+    <entry>Gary Shultz</entry>
+    <entry>Marshall University</entry>
+  </row>
+  <row>
+    <entry>Donald Slish</entry>
+    <entry>SUNY Plattsburgh</entry>
+  </row>
+  <row>
+    <entry>Anh-Hue Tu</entry>
+    <entry>Georgia Southwestern State University</entry>
+  </row>
+  <row>
+    <entry>Elena Zoubina</entry>
+    <entry>Bridgewater State University</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table>
+</section></section></content>
+
+</document>

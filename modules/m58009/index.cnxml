@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Hormonal Control of Urine Concentration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58009</md:content-id>
+  <md:title>Hormonal Control of Urine Concentration</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how aldosterone and anti-diuretic hormone help control urine concentration</item>
+</list></md:abstract>
+  <md:uuid>50b76e19-2db9-4ff3-8dc8-2c5e70d60452</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm47549440">While the kidneys operate to maintain osmotic balance and blood pressure in the body, they also act in concert with hormones. Hormones are small molecules that act as messengers within the body. Hormones are typically secreted from one cell and travel in the bloodstream to affect a target cell in another portion of the body. Different regions of the nephron bear specialized cells that have receptors to respond to chemical messengers and hormones. In this section, you will learn about two hormones, aldosterone and antidiuretic hormone, that control urine concentration.</para><section id="fs-idm8612112">
+<title>Aldosterone</title><para id="fs-idp114630528">Aldosterone is a hormone synthesized by the adrenal cortex that affects urine concentration by regulating sodium levels in the blood. Almost all of the sodium in the blood is reclaimed by the renal tubules under the influence of aldosterone. Because sodium is always reabsorbed by active transport and water follows sodium to maintain osmotic balance, aldosterone manages not only sodium levels but also the water levels in urine. Aldosterone favors the production of a concentrated urine by the water following the reabsorbed sodium ions.  A decrease in the secretion of aldosterone means that less sodium gets reabsorbed in the renal tubules; therefore, more of it gets excreted in the urine. Patients who have Addison's disease have a failing adrenal cortex and cannot produce aldosterone. They lose sodium in their urine constantly, and if the supply is not replenished, the consequences can be fatal.</para></section>
+<section id="fs-idm138152048">
+<title>Antidiurectic Hormone</title>
+<para id="fs-idm135252560">Diuretics are drugs that can increase water loss by interfering with the recapture of solutes and water from the forming urine. They are often prescribed to lower blood pressure. Coffee, tea, and alcoholic beverages are familiar diuretics. Antidiuretic hormone or ADH, as the name suggests, helps the body conserve water when body fluid volume, especially that of blood, is low. It is formed by the hypothalamus and is stored and released from the posterior pituitary gland. It acts by inserting aquaporins, protein channels that allow water to leave, in the collecting ducts and promotes reabsorption of water. This action results in the formation of a concentrated urine.  ADH also acts as a vasoconstrictor and increases blood pressure during hemorrhaging.
+</para></section>
+<section id="fs-idm142274672" class="summary">
+<title>Section Summary</title><para id="fs-idm134598544">Hormonal cues help the kidneys synchronize the osmotic needs of the body. Hormones like aldosterone and anti-diuretic hormone (ADH) help regulate the needs of the body as well as the communication between the different organ systems.</para></section>
+<section id="fs-idm27053760" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm77856336">
+<problem id="fs-idm113020448">
+<para id="fs-idp60918464">Aldosterone is made by ________.</para><list id="fs-idm96906256" list-type="enumerated" number-style="lower-alpha"><item>the adrenal glands</item>
+<item>the hypothalamus</item>
+<item>the anterior pituitary gland</item>
+<item>the posterior pituitary gland</item>
+</list></problem>
+<solution id="fs-idm100468048">
+<label/>
+<para id="fs-idm134768224">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2601472">
+<problem id="fs-idm71203920">
+<para id="fs-idp114225344">Patients with Addison's disease ________.</para>
+<list id="fs-idp71515360" list-type="enumerated" number-style="lower-alpha">
+<item>retain water</item>
+<item>retain salts</item>
+<item>lose salts and water</item>
+<item>have too much aldosterone</item>
+</list>
+</problem>
+<solution id="fs-idp24625168">
+<label/>
+<para id="fs-idp96431360">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm2920480" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp82471312">
+<problem id="fs-idm131591424">
+<para id="fs-idm67761552">Describe how hormones regulate blood pressure, blood volume, and kidney function.</para>
+</problem>
+<solution id="fs-idm33050624">
+<label/>
+<para id="fs-idm53331936">Hormones are small molecules that act as messengers within the body. Different regions of the nephron bear specialized cells, which have receptors to respond to chemical messengers and hormones. The hormones carry messages to the kidney. These hormonal cues help the kidneys synchronize the osmotic needs of the body. Both ADH and aldosterone promote water reabsorption from the filtrate, which increases blood volume and blood pressure while also producing a concentrated urine.</para></solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm22644896">
+<term>angiotensin converting enzyme (ACE)</term> <meaning id="fs-idm110222416">enzyme that converts angiotensin I to angiotensin II</meaning>
+</definition>
+<definition id="fs-idm99943504">
+<term>angiotensin I</term> <meaning id="fs-idm65737360">product in the renin-angiotensin-aldosterone pathway</meaning>
+</definition>
+<definition id="fs-idp79041600">
+<term>angiotensin II</term> <meaning id="fs-idp129543152">molecule that affects different organs to increase blood pressure</meaning>
+</definition>
+<definition id="fs-idp6545056">
+<term>anti-diuretic hormone (ADH)</term> <meaning id="fs-idp14494800">hormone that prevents the loss of water</meaning>
+</definition>
+<definition id="fs-idm14111936">
+<term>renin-angiotensin-aldosterone</term> <meaning id="fs-idp23193456">biochemical pathway that activates angiotensin II, which increases blood pressure</meaning>
+</definition>
+<definition id="fs-idm126868768">
+<term>vasodilator</term> <meaning id="fs-idm75635344">compound that increases the diameter of blood vessels</meaning>
+</definition>
+<definition id="fs-idp87484192">
+<term>vasopressin</term> <meaning id="fs-idm90966320">another name for anti-diuretic hormone</meaning>
+</definition>
+</glossary>
+</document>
